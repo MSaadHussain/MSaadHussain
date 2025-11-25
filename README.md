@@ -7,8 +7,9 @@ Python for scripting, automation, and backend logic
 
 Selenium & UI Automation for smart workflow solutions
 
-Web technologies (React, Node.js) for full-stack projects
+Web technologies (React JS, Python) for full-stack projects
 
 Here is my portfolio |
 
 https://msaadhussain.github.io/MSaadHussain/
+
